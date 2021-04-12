@@ -1,0 +1,12 @@
+.addCityModal {
+  margin-top: 50px;
+}
+
+.addCityForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.addCityForm__input {
+  margin: 15px;
+}
